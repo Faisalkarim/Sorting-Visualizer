@@ -14,13 +14,12 @@ The following sorting algorithms are implemented and visualized in this project:
 ## Live Demo
 Explore the live Sorting Visualizer web app [here](https://sorting-visualizer-faisal.netlify.app/).
 
+![Front Page](Frontpage.png)
+
 ## Usage
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/Faisalkarim/Sorting-Visualizer.git
    cd Sorting-Visualizer
-
-![Front Page](Frontpage.png)
-
  
