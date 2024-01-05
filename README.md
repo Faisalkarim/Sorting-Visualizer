@@ -22,4 +22,10 @@ Explore the live Sorting Visualizer web app [here](https://sorting-visualizer-fa
    ```bash
    git clone https://github.com/Faisalkarim/Sorting-Visualizer.git
    cd Sorting-Visualizer
+2. Install dependencies
+   ```bash
+   npm install
+3. Run the app
+   ```bash
+   npm start
  
